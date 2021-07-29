@@ -1,10 +1,10 @@
 ---
-title: "Biography"
+title: "Burla Ece Ondes, Ph.D. student"
 permalink: "/about/"
 layout: page
 ---
 
-## Burla Ece Ondes
+## Biography
 
 I'm a PhD student in School of Industrial Engineering at Purdue University where I'm advised by Prof. Dr. Susan R. Hunter. My research interests broadly include stochastic optimization, Monte Carlo simulation optimziation and analysis and, applied probability and statistics.
 
