@@ -4,9 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-## burla
+## Burla Ondes
 
-I'm a PhD student in School of Industrial Engineering at Purdue University where I'm advised by Prof. Dr. Susan R. Hunter. My research interests broadly include stochastic optimization.
+I'm a PhD student in School of Industrial Engineering at Purdue University where I'm advised by Prof. Dr. Susan R. Hunter. My research interests broadly include stochastic optimization, Monte Carlo simulation optimziation and analysis and, applied probability and statistics
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
