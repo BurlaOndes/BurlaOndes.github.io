@@ -1,5 +1,5 @@
 ---
-title: "Burla Ece Ondes, Ph.D. student"
+title: "Burla Ece Ondes"
 permalink: "/about/"
 layout: page
 ---
