@@ -1,5 +1,6 @@
 ---
 title: "Biography"
+permalink: "/about/"
 layout: page
 ---
 
