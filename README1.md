@@ -14,7 +14,7 @@ If you only decide to read one from the list, let it be this one. You will not r
 <br>
 My favorite quote from the book is: "It is only with the heart that one can see rightly; what is essential is invisible to the eye.".
 <br>
-<a href="https://en.wikipedia.org/wiki/The_Royal_Game">1. Chess Story</a>
+<a href="https://en.wikipedia.org/wiki/The_Royal_Game">2. Chess Story</a>
 <br>
 <img src="https://lh3.googleusercontent.com/pd1cIhQDdTJGqVI2uwFwzL2IhEbssAfb7hbOjN8sb4BXGmKKR9OlfSYbq6cO91rzOXZZB_Nokww-Jw0yEY_wBoilpEE6gO9zdlDZ9uam3ZC2wJONeS2n98_JpOFlONfHz2ebnr6ErQ=w2400" alt="Simply Easy Learning" width="200" height="80">
 <br>
