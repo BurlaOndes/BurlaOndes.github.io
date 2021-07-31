@@ -24,10 +24,7 @@ Zweig is one of my favorite authors. I read more than 10 of his books and still 
 %5. Yasar Kemal
 
 ## Photo Collection
-<div>
-    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
+
 
 
 
