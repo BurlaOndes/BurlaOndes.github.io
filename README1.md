@@ -32,7 +32,7 @@ My mother tounge is Turkish and I would like to intoduce people from all around 
 <br>
 <a href="https://en.wikipedia.org/wiki/Blindness_(novel)">5. Blindness </a>
 <br>
-<img src="" width="200" height="80">
+<img src="https://lh3.googleusercontent.com/mKn-Cp4_rA0xE9YNfPayGHW16BULw_ggB-KhxuTIxUqzLgxbmTs5RJs5EfA_2BCi6AWT4oK5D290vMFjg776PG861t_PExIZ_BMjiLNv6kqPgsJksu_F9afOHpM_vfS1t3kaXWX6Xg=w2400" width="200" height="80">
 <br>
 Saramago received the Nobel Prize for Literature, and Blindness was one of his works that led to the Nobel. The novel deals with the loss of our most relied upon sense: vision. When everybody is free to do whatever he/she wants without the fear of recognition and judgement, we start to see the true nature of humanity. My favorite quote from the book is: "Perhaps only in a world of the blind will things be what they truely are.".
 <br>
