@@ -40,9 +40,5 @@ Saramago received the Nobel Prize for Literature, and Blindness was one of his w
 
 
 
-## Photo Collection
-
-
-
 
 
