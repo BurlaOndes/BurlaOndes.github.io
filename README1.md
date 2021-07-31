@@ -3,8 +3,7 @@ title: ""
 permalink: "/about/"
 layout: page
 ---
-I am interested in reading, making puzzles and drawing
-
+I am interested in reading and taking photos. Here are some books that I enjoyed reading and my favorite photos. 
 ## Some of My Favorite Books
 <a href="https://en.wikipedia.org/wiki/The_Little_Prince">1. The Little Prince</a>
 <br>
