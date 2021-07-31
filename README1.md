@@ -1,10 +1,11 @@
 ---
-title: "Personal"
+title: ""
 permalink: "/about/"
 layout: page
 ---
+I am interested in reading, making puzzles and drawing
 
-## Personal Top Ten Books
-I love reading and here is my top ten books with my personal reasons. 
+## Some of My Favorite Books
+
 
 
