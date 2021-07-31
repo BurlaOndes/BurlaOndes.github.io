@@ -24,7 +24,7 @@ Zweig is one of my favorite authors. I read more than 10 of his books and still 
 <br>
 If you are interested in philosophy, this can be a great introduction book. The book helps reader to understand the fundamentals of philosophy through jokes. It was a pure joy to read this book. 
 <br>
-<a href="">4. Memed, My Hawk </a>
+<a href="https://en.wikipedia.org/wiki/Memed,_My_Hawk">4. Memed, My Hawk </a>
 <br>
 <img src="" width="200" height="80">
 <br>
