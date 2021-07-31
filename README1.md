@@ -30,11 +30,11 @@ If you are interested in philosophy, this can be a great introduction book. The 
 <br>
 My mother tounge is Turkish and I would like to intoduce people from all around the world with some of the best Turkish writers and books. Memed, My Hawk is definetely one of them, it is the first book of Ince Memed tetralogy. This book is an experience and shows Kemal's extraordinary talent in understanding and describing human nature. The story takes place in Cukurova, Turkey; however, it is a story that anyone in anywhere can find something to take. 
 <br>
-<a href="">5. Today's Childeren is Wonderful </a>
+<a href="https://en.wikipedia.org/wiki/Blindness_(novel)">5. Blindness </a>
 <br>
 <img src="" width="200" height="80">
 <br>
-Nesin was a Turkish humorist and author.  
+Saramago received the Nobel Prize for Literature, and Blindness was one of his works that led to the Nobel. The novel deals with the loss of our most relied upon sense: vision. When everybody is free to do whatever he/she wants without the fear of recognition and judgement, we start to see the true nature of humanity. My favorite quote from the book is: "Perhaps only in a world of the blind will things be what they truely are.".
 <br>
 
 
