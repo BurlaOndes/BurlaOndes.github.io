@@ -20,13 +20,13 @@ Zweig is one of my favorite authors. I read more than 10 of his books and still 
 <br>
 <a href="https://en.wikipedia.org/wiki/Plato_and_a_Platypus_Walk_Into_a_Bar">3. Plato and Platypus walks into a bar </a>
 <br>
-<img src="" width="200" height="80">
+<img src="https://lh3.googleusercontent.com/w4Hilj-20Ssop_hb63ABxwDg4Hrm9p7_mB6TSbBGSYa9ak1E3NnS6wSwqqAFYOazOsbfsqSQMTdZfANr9NzXp7_107P0OQS_6PG2gQRrYGnornJBjSTWr8YxB-Y3bsHXj0lGJ7fyqQ=w2400" width="200" height="80">
 <br>
 If you are interested in philosophy, this can be a great introduction book. The book helps reader to understand the fundamentals of philosophy through jokes. It was a pure joy to read this book. 
 <br>
 <a href="https://en.wikipedia.org/wiki/Memed,_My_Hawk">4. Memed, My Hawk </a>
 <br>
-<img src="" width="200" height="80">
+<img src="https://lh3.googleusercontent.com/amQjYm2M_lVGOgvI4E97Mrkdns4kP2kFr94Gmp0f2NEbX1_fM_P7dRynJ-7RTBf4j7nK-F3KWWo4x4sNtGuxNPuETsQe02AyR5pH7-rMsOGV2KYh9Xc_GMzil9fQ3yT9zkqO93ZCwQ=w2400" width="200" height="80">
 <br>
 My mother tounge is Turkish and I would like to intoduce people from all around the world with some of the best Turkish writers and books. Memed, My Hawk is definetely one of them, it is the first book of Ince Memed tetralogy. This book is an experience and shows Kemal's extraordinary talent in understanding and describing human nature. The story takes place in Cukurova, Turkey; however, it is a story that anyone in anywhere can find something to take. 
 <br>
