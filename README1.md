@@ -18,8 +18,21 @@ My favorite quote from the book is: "It is only with the heart that one can see 
 <br>
 Zweig is one of my favorite authors. I read more than 10 of his books and still enjoying reading his pieces. In Chess Story, he created another world with endless possibilities on the chessboard. He is an expert in using metaphors and descriptive narration. My favorite quote from the book is:"People and events do not disappoint us, our models of reality do. It is my model of reality that determines my happiness or disappointments.".
 <br>
-%3. Piedra Irmaginda oturdum agladim
-%4. Platebus
+<a href="https://en.wikipedia.org/wiki/Plato_and_a_Platypus_Walk_Into_a_Bar">3.Plato and Platypus walks into a bar </a>
+<br>
+<img src="" width="200" height="80">
+<br>
+If you are interested in philosophy, this can be a great introduction book. The book helps reader to understand the fundamentals of philosophy through jokes. It was a pure joy to read this book. 
+<br>
+<a href="">3.Plato and Platypus walks into a bar </a>
+<br>
+<img src="" width="200" height="80">
+<br>
+  
+<br>
+3. Piedra Irmaginda oturdum agladim
+4. Plato and Platypus walks into a bar
+
 %5. Yasar Kemal
 
 ## Photo Collection
