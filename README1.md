@@ -28,7 +28,13 @@ If you are interested in philosophy, this can be a great introduction book. The 
 <br>
 <img src="" width="200" height="80">
 <br>
-My mother tounge is Turkish and I would like to intoduce people from all around the world with some of the best Turkish writers and books. Memed, My Hawk is definetely one of them, it is the first book of Ince Memed tetralogy. This book is an experience and shows Kemal's extraordinary talent in understanding and describing human nature. The story takes place in Anatolia, Turkey ;however, it is a story that anyone in the world can find something to take. 
+My mother tounge is Turkish and I would like to intoduce people from all around the world with some of the best Turkish writers and books. Memed, My Hawk is definetely one of them, it is the first book of Ince Memed tetralogy. This book is an experience and shows Kemal's extraordinary talent in understanding and describing human nature. The story takes place in Cukurova, Turkey; however, it is a story that anyone in anywhere can find something to take. 
+<br>
+<a href="">5. Today's Childeren is Wonderful </a>
+<br>
+<img src="" width="200" height="80">
+<br>
+Nesin was a Turkish humorist and author.  
 <br>
 
 
