@@ -17,6 +17,14 @@ My favorite quote from the book is: "It is only with the heart that one can see 
 <br>
 <img src="https://lh3.googleusercontent.com/ZPWEanAMyFuJ9n4f5gGyeqEzNKQ-lQuIeCfCsMU0E1DlCc3MFTzWDbyZObaxUiobSz-J1QxA_8lMxOVtiSshKvL9aSX5L_UcjFLMK4i6sxV825tvLJAjwnpK0hUIF5w6L_ltVYvEzg=w2400" alt="Simply Easy Learning" width="200" height="80">
 <br>
-Zweig is one of my favorite authors. I read more than 10 of his books and still enjoying reading his pieces. In Chess Story, he created another world with endless possibilities on the chessboard. My favorite quote from the book is:"People and events do not disappoint us, our models of reality do. It is my model of reality that determines my happiness or disappointments.".
+Zweig is one of my favorite authors. I read more than 10 of his books and still enjoying reading his pieces. In Chess Story, he created another world with endless possibilities on the chessboard. He is an expert in using metaphors and descriptive narration. My favorite quote from the book is:"People and events do not disappoint us, our models of reality do. It is my model of reality that determines my happiness or disappointments.".
+<br>
+%3. Piedra Irmaginda oturdum agladim
+%4. Platebus
+%5. Yasar Kemal
+
+## Photo Collection
+
+
 
 
